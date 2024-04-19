@@ -39,3 +39,5 @@ new GithubActionsRunner(stack, "runner", {
   runnerContext: context,
 });
 ```
+
+git clone
